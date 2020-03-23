@@ -16,7 +16,7 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 
-  <title>Hello, world!</title>
+  <title>fynnwi.github.io</title>
 </head>
 
 <body>
@@ -25,7 +25,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
     <div class="container">
-      <a class="navbar-brand" href="#">Start Bootstrap</a>
+      <a class="navbar-brand" href="#">Webpage</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
         aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -33,18 +33,15 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home
+            <a class="nav-link" href="#home">Home
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="#section1">Section 1</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="#section2">Section 2</a>
           </li>
         </ul>
       </div>
@@ -55,13 +52,28 @@
   <div class="container">
     <div class="card border-0 shadow my-5">
       <div class="card-body p-5">
-        <h1 class="font-weight-light">Fixed Full Page Background Image</h1>
-        <p class="lead">In this snippet, the background image is fixed to the body element. Content on the page will
-          scroll, but the image will remain in a fixed position!</p>
-        <p class="lead">Scroll down...</p>
-        <div style="height: 700px"></div>
-        <p class="lead mb-0">You've reached the end!</p>
-        <p>This is a normal paragraph.</p>
+
+        <section id="home">
+          <h1 class="font-weight-light">Fixed Full Page Background Image</h1>
+          <p class="lead">In this snippet, the background image is fixed to the body element. Content on the page will
+            scroll, but the image will remain in a fixed position!</p>
+          <p class="lead">Scroll down...</p>
+          <div style="height: 300px"></div>
+        </section>
+
+
+
+        <section id="section1">
+          <h1 class="font-weight-light">Section 1</h1>
+          <p class="lead">This could be some content.</p>
+        </section>
+
+
+        <section id="section2">
+          <p class="lead mb-0">You've reached the end!</p>
+          <p>This is a normal paragraph.</p>
+        </section>
+
       </div>
     </div>
   </div>
@@ -72,7 +84,7 @@
 
 
 
-<!-- Footer -->
+  <!-- Footer -->
   <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
     <div class="container text-center">
       <small>Copyright &copy; Your Website</small>
