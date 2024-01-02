@@ -21,8 +21,12 @@ role: Biomedical Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Technical University of Munich
-    url: https://www.tum.de/
+  - name: ''
+
+interests:
+  - Droplet Microfluidics
+  - Directed Evolution
+  - Data Visualization
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -32,12 +36,10 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/fynnwithake
-  - icon: brands/orcid
-    url: https://orcid.org/0000-0002-3011-2463
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
-    label: Download my resume
+    label: Download my PDF resume
 ---
 
 I just finished my Master's studies in Biomedical Engineering and Medical Physics at the Technical University of Munich and am now looking for work opportunities in the life sciences field. 
