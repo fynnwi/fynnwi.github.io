@@ -41,9 +41,9 @@ profiles:
     url: https://github.com/fynnwi
     label: Check out my GitHub
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my PDF resume
+#  - icon: academicons/cv
+#    url: uploads/resume.pdf
+#    label: Download my PDF resume
 ---
 
 I just finished my master's studies in Biomedical Engineering and Medical Physics at the Technical University of Munich and am now looking for work opportunities in the life sciences field. 
