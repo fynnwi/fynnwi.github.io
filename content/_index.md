@@ -25,4 +25,7 @@ sections:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/fynnwithake/
+        - text: Check out my GitHub
+          icon: brands/github
+          url: https://github.com/fynnwi
 ---
