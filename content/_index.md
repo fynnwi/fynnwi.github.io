@@ -29,6 +29,6 @@ sections:
           icon: brands/github
           url: https://github.com/fynnwi
         - text: Check out my master thesis
-          icon: person-chalkboard
+          icon: person-chalkboard-solid
           url: https://docs.google.com/presentation/d/1kyBU0_34abz8C_4edZ5G6c151tFir1faeO7mFxTEz5k/present?usp=sharing
 ---
