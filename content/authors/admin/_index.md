@@ -46,7 +46,7 @@ profiles:
     label: Download PDF resume
 ---
 
-I just finished my master's studies in Biomedical Engineering and Medical Physics at the Technical University of Munich and am currently looking for work opportunities in Berlin.
+Biomedical engineer with an interest in microfluidics and micromanufacturing technologies.
 
 Through a bachelor's degree in Engineering Science, I acquired fundamental skills in mathematics, physics, and computer science, as well as engineering skills such as CAD/CAM and embedded programming.
 In my graduate studies, I specialized in microfluidics and biosensing technology. Spending the one-year research phase of my master's thesis in a synthetic biology lab allowed me to dive deep into droplet microfluidics and its applications for engineering biology. As part of my thesis, I developed a microfluidic picoinjector and used it to investigate the interaction between bacteria and bacteriophages in droplets. In the process, I used micromanufacturing technologies such as photolithography, fluorescence microscopy, and fluorescence-activated droplet sorting (FADS).
