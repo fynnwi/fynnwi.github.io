@@ -46,9 +46,10 @@ profiles:
     label: Download PDF resume
 ---
 
-Biomedical engineer with an interest in microfluidics and micromanufacturing technologies.
+Biomedical engineer interested in microfluidics, machine learning, and material science.
 
 Through a bachelor's degree in Engineering Science, I acquired fundamental skills in mathematics, physics, and computer science, as well as engineering skills such as CAD/CAM and embedded programming.
 In my graduate studies, I specialized in microfluidics and biosensing technology. Spending the one-year research phase of my master's thesis in a synthetic biology lab allowed me to dive deep into droplet microfluidics and its applications for engineering biology. As part of my thesis, I developed a microfluidic picoinjector and used it to investigate the interaction between bacteria and bacteriophages in droplets. In the process, I used micromanufacturing technologies such as photolithography, fluorescence microscopy, and fluorescence-activated droplet sorting (FADS).
 
-Besides engineering, I have some background in bioinformatics, which I studied in a second bachelor's degree. Though I later moved back to engineering, this experience allowed me to collect valuable data analysis, AI, and coding skills.
+Besides engineering, I have some background in bioinformatics, which I studied in a second bachelor's degree. 
+Though I later moved back to engineering, this experience allowed me to gain valuable coding skills that I use for data analysis and machine learning in my work.
